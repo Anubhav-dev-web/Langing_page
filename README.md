@@ -21,7 +21,7 @@
 # Installation
 
 ```
-(https://github.com/Anubhav-dev-web/Langing_page.git)
+(git clone https://github.com/Anubhav-dev-web/Langing_page.git)
 
 cd simple-landing-page
 
