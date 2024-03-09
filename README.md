@@ -21,7 +21,7 @@
 # Installation
 
 ```
-git clone https://github.com/your-username/simple-landing-page.git
+[git clone https://github.com/your-username/simple-landing-page.git](https://github.com/Anubhav-dev-web/Langing_page.git)
 
 cd simple-landing-page
 
